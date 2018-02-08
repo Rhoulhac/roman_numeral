@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from convert import make_numeral
+from convert_numbers import make_numeral
 
 
 class TestNumerals(TestCase):
